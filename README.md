@@ -4,7 +4,7 @@
   Sou Desenvolvedore Front-end apaixonade por transformar ideias em experiências digitais <strong>acessíveis, intuitivas e visualmente consistentes</strong>. Minha atuação combina <strong>Desenvolvimento Front-end e UI/UX Design</strong>, unindo tecnologia, criatividade e atenção às necessidades das pessoas usuárias. Tenho um olhar especial para <strong>acessibilidade web</strong>, buscando construir interfaces mais inclusivas, responsivas e fáceis de navegar, sem deixar de lado estética, usabilidade e qualidade técnica. Gosto de trabalhar de forma colaborativa, valorizando comunicação, aprendizado contínuo e o desafio de transformar problemas em soluções digitais que façam sentido.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F20587&center=false&vCenter=true&width=500&&height=40&lines=Desenvolvimento+de+sites;Código+limpo;Reponsividade+mobile;Trabalho+em+equipe;Acessibilidade+web;Empatia" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F20587&center=false&vCenter=true&width=500&&height=40&lines=Desenvolvimento+de+sites;Código+limpo;Reponsividade+mobile;Trabalho+em+equipe;Acessibilidade+web;Empatia)](https://git.io/typing-svg)
 
 ## 🩷 Tecnologias
 
