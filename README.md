@@ -6,6 +6,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F20587&center=false&vCenter=true&width=500&&height=40&lines=Desenvolvimento+de+sites;Código+limpo;Reponsividade+mobile;Trabalho+em+equipe;Acessibilidade+web;Empatia)](https://git.io/typing-svg)
 
+## 🩷 Projetos
+
+ <div style="display: flex;flex-wrap: wrap; gap: 30px;">
+   <a href="https://coletivenaobinariepb.com.br/" target="_blank" rel="noopener noreferrer nofollow">
+     <img src="img/coletive-nb-pb.png" title="Coletive Não-Binárie da Paraíba" alt="Coletive Não-Binárie da Paraíba" width="350">
+   </a>
+   <a href="https://janaiamitaf.vercel.app" target="_blank" rel="noopener noreferrer nofollow">
+     <img src="img/janai-amitaf.svg" title="Janai Amitáf Produções" alt="Janai Amitáf Produções" width="350">
+   </a>
+ </div>
+
+
 ## 🩷 Tecnologias
 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=black&color=FFC8DD)
@@ -27,9 +39,9 @@
 
 ## 🩷 Badges
  
- <p align="left">
+ <div>
    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS Certified Cloud Practioner Foundational" alt="AWS Certified Cloud Practioner Foundational" width="120" height="120">
- </p>
+ </div>
 
 
 ## 🩷 Vamos nos conectar
